@@ -78,15 +78,9 @@
 
 <hr/>
 
-<h2 align="center">📜 Certifications 📜</h2>
-<br>
-- **Software Development with SCRUM** – AXON ACTIVE  
-- **Google AI Essentials** – GOOGLE
-
-<br/>
 
 <hr/>
 
 <h1 align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thank+you+for+visiting!;+Cảm+ơn+đã+ghé+thăm!" /> 
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thank+you+for+visiting!" /> 
 </h1>
