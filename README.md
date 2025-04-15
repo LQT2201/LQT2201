@@ -61,26 +61,6 @@
 
 <hr/>
 
-<h2 align="center">💼 Featured Projects 💼</h2>
-<br>
-
-### THE PET - CONNECT PET LOVER Website
-- **Overview:** A social networking platform for pet lovers with real-time messaging, social feeds, media sharing, and a donation module to support animal welfare.
-- **Technologies:** Frontend built with NextJS, Redux Toolkit, Tailwind CSS; Backend developed using NodeJS, Socket.IO, PassportJS; Database: MongoDB.
-- **Demo & Repo:** [Live Demo](https://social-network-orpin-chi.vercel.app/homepage) | [GitHub Repository](https://github.com/LQT2201/social-network)
-
-### BOOK UIT
-- **Overview:** A responsive web application for small bookstores. The platform supports book browsing, search, order placement, secure payments via VNPay, and order tracking with an admin panel for inventory and customer management.
-- **Technologies:** Frontend built with NextJS and MUI; Backend developed with Spring Boot; Database: MongoDB.
-- **Repo:** [GitHub Repository](https://github.com/LQT2201/bookweb)
-
-<br/>
-
-<hr/>
-
-
-<hr/>
-
 <h1 align="center"> 
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thank+you+for+visiting!" /> 
 </h1>
