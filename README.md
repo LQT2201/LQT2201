@@ -13,11 +13,11 @@
 <div align="center">
   
 🌍  I'm based in **Ho Chi Minh City, Vietnam**  
-✉️  You can contact me at **[21521542@gm.uit.edu.vn](mailto:21521542@gm.uit.edu.vn)**
+✉️  You can contact me at **[luongquoctoan.work@gmail.vn](mailto:luongquoctoan.work@gmail.vn)**
 
-🧠  I specialize in full-stack web development, building robust backend systems and user-centric applications using modern technologies  
+🧠  I specialize in full-stack web development, building robust backend systems and user-centric mobile applications using modern technologies  
 🤝  I'm open to collaborating on innovative projects  
-⚡  I have a strong background in Java, C++, and JavaScript, and experience with RESTful API development  
+⚡  I have a strong background in Java, C++, JavaScript and experience with RESTful API development  
 
 </div>
 
